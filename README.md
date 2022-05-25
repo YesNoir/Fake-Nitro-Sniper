@@ -1,4 +1,4 @@
-# Fake-Ethereum-Wallet-Miner
+# Fake-Nitro-Sniper
 
 Setup:
 
