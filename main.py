@@ -3,6 +3,12 @@ import sys
 import time
 import random
 try:
+    import os
+    from os import system
+    system("title " + "Nitro Sniper")
+except:
+    pass
+try:
     import colorama
 except Exception:
     print("Missing Colorama Module")
